@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/LikemD/fe-mentor/tree/main/intro-section-with-dropdown-navigation-main](https://your-solution-url.com)
+- Live Site URL: [https://fe-mentor-eight.vercel.app/intro-section-with-dropdown-navigation-main/index.html](https://your-live-site-url.com)
 
 ## My process
 
