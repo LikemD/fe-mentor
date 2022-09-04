@@ -41,8 +41,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Space Tourism Github Repo](https://github.com/LikemD/fe-mentor/tree/main/space-tourism-website)
-- Live Site URL: [Space Tourism Website](https://space-tourism-one-sigma.vercel.app/)
+- Solution URL: [Space Tourism Github Repo](https://github.com/LikemD/fe-mentor/tree/main/space-tourism-website/)
+- Live Site URL: [Space Tourism Website](https://space-tourism-likemd.vercel.app/)
 
 ## My process
 
