@@ -49,8 +49,8 @@ export function ImageComponent(props) {
   return (
     <Image
       src={props.source}
-      width={setImageWidth}
-      height={setImageHeight}
+      width={setImageWidth()}
+      height={setImageHeight()}
       alt={props.alt}
     />
   );
