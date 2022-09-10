@@ -43,7 +43,7 @@ export default function Navbar(props) {
           />
         </div>
       </div>
-      <hr className="hidden xl:block w-1/3 2xl:w-2/5 absolute z-50 top-22 left-40 border-gray-10" />
+      <hr className="hidden xl:block w-1/3 2xl:w-2/5 absolute z-50 top-22 left-40 border-white-shadow-10" />
       <div
         className={`fixed z-40 top-0 right-0 nav-list md:flex ml-auto pl-8 bg-white-shadow backdrop-blur-4xl text-white ff-barlow-condensed w-64 min-h-screen ${
           isExpanded ? "block" : "hidden"
